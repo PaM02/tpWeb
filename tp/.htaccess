@@ -1,0 +1,3 @@
+php_value include_path "C:/xampp/htdocs/tp"
+php_value auto_append_file "route.php"
+ErrorDocument 404 /tp/notfound.html
